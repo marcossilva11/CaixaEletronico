@@ -41,7 +41,8 @@ Ao iniciar, o usuário informa **seu nome e saldo inicial**, e em seguida pode n
 
 ## 🔧 Tecnologias Utilizadas  
 
-- **C#** (sem frameworks externos)  
+- **C#** (sem frameworks externos)
+- **Programação Orientada a Objetos (POO)** - Utilização de classes e objetos para organizar e modularizar o código.  
 - **Entrada e saída no console**  
 - **Estruturas de controle** (`if`, `switch`)  
 
